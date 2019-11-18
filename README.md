@@ -6,7 +6,7 @@ Extends the [SilverStripe Elemental Blocks](https://github.com/dynamic/silverstr
 
 -   silverstripe/recipe-cms: ^4@dev
 -   dnadesign/silverstripe-elemental: ^4@dev
--   dynamic/silverstripe-elemental-blocks: ^2.0
+-   dynamic/silverstripe-elemental-blocks: ^3.0
 
 ## Installation
 

@@ -18,7 +18,7 @@
     "license": "BSD-3-Clause",
     "require": {
         "dnadesign/silverstripe-elemental": "^4.0",
-        "dynamic/silverstripe-elemental-blocks": "^2.0",
+        "dynamic/silverstripe-elemental-blocks": "^3.0",
         "silverstripe/vendor-plugin": "^1.0"
     },
     "require-dev": {
