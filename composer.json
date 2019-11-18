@@ -1,5 +1,5 @@
 {
-    "name": "JoshMens/silverstripe-elemental-two-column",
+    "name": "joshmens/silverstripe-elemental-two-column",
     "description": "Extends dynamic/silverstripe-elemental-blocks to add a block that adds a Bootstrap (3) two column layout to your page.",
     "authors": [
         {
