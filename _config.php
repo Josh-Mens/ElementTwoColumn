@@ -1,0 +1,4 @@
+<?php
+
+define('SILVERSTRIPE_ELEMENTAL-TWO-COLUMN_PATH', __DIR__);
+define('SILVERSTRIPE_ELEMENTAL-TWO-COLUMN_DIR', basename(__DIR__));

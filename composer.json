@@ -1,0 +1,44 @@
+{
+    "name": "JoshMens/silverstripe-elemental-two-column",
+    "description": "Extends dynamic/silverstripe-elemental-blocks to add a block that adds a Bootstrap (3) two column layout to your page.",
+    "authors": [
+        {
+            "name": "Josh Mens",
+            "email": "josh.mens@hotmail.com"
+        }
+    ],
+    "keywords": [
+        "silverstripe",
+        "elemental",
+        "content",
+        "blocks",
+        "two columns"
+    ],
+    "type": "silverstripe-vendormodule",
+    "license": "BSD-3-Clause",
+    "require": {
+        "dnadesign/silverstripe-elemental": "^4.0",
+        "dynamic/silverstripe-elemental-blocks": "^2.0",
+        "silverstripe/vendor-plugin": "^1.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^5.7",
+        "squizlabs/php_codesniffer": "*"
+    },
+    "config": {
+        "process-timeout": 600
+    },
+    "autoload": {
+        "psr-4": {
+            "Dynamic\\Elements\\TwoColumn\\": "src/",
+            "Dynamic\\Elements\\TwoColumn\\Tests\\": "tests/"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "extra": {
+        "branch-alias": {
+            "dev-master": "2.0.x-dev"
+        }
+    }
+}
