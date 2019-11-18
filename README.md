@@ -1,6 +1,6 @@
 # Silverstripe Elemental Two Column
 
-Extends the [SilverStripe Elemental Blocks](https://github.com/dynamic/silverstripe-elemental-blocks) module to add a block that create a Bootstrap two column layout in your page. This can already be achieved using [SilverStripe Elemental List](https://github.com/dnadesign/silverstripe-elemental-list), however this module provides a slightly friendlier approach for non-technical users (e.g. those who are unframiliar with Bootstrap's CSS classes).
+Extends the [SilverStripe Elemental Blocks](https://github.com/dynamic/silverstripe-elemental-blocks) module to add a block that create a Bootstrap two column layout in your page. This can already be achieved using [SilverStripe Elemental List](https://github.com/dnadesign/silverstripe-elemental-list), however this module provides a slightly friendlier approach for non-technical users (e.g. those who are unfamiliar with Bootstrap's CSS classes).
 
 ## Requirements
 
