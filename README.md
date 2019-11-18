@@ -10,7 +10,7 @@ Extends the [SilverStripe Elemental Blocks](https://github.com/dynamic/silverstr
 
 ## Installation
 
-`composer require dynamic/silverstripe-elemental-image`
+`composer require Josh-Mens/silverstripe-elemental-two-column`
 
 ## Example usage
 
